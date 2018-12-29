@@ -1,0 +1,48 @@
+#name {
+    text-align: center;
+    font-family: 'Nunito', Arial;
+    font-size: 100px;
+    color: rgb(39, 246, 118);
+    text-shadow: 0px 100px 50px rgb(39, 246, 118),
+                 0px 0px 5px rgb(39, 246, 118);
+}
+
+body {
+    background-color: black;
+}
+
+#box {
+    width: 1000px;
+    height:350px;
+    margin:auto;
+    background-color:black; /*rgb(50, 56, 175);   #2F76FF*/
+    border-radius: 25px;
+    box-shadow: 0px 0px 50px rgb(39, 246, 118);
+}
+
+#button {
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: 'Nunito', Arial;
+    background-color:black;
+    border-color: rgb(39, 246, 118);
+    /* box-shadow: 0px 5px 0px rgb(103, 15, 62); */
+    color: greenyellow;
+    margin-left: 35%;
+    margin-top: 10%;
+}
+
+#screen {
+    height: 50px;
+    width: 500px;
+    background-color: greenyellow;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    line-height: 50px;
+    text-align: center;
+    font-size: 30px;
+}
