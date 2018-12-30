@@ -3,8 +3,7 @@
     font-family: 'Nunito', Arial;
     font-size: 100px;
     color: rgb(39, 246, 118);
-    text-shadow: 0px 100px 50px rgb(39, 246, 118),
-                 0px 0px 5px rgb(39, 246, 118);
+    text-shadow: 0px 0px 5px rgb(39, 246, 118);
 }
 
 body {
